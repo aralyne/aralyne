@@ -1,6 +1,6 @@
 Oi! Seja bem-vindo(a) ao meu perfil!
 
-Me chamo Aralyne e todos os dias aprendendo um pouquinho mais sobre Ruby, Ruby on Rails, TDD, normalização de banco de dados, design patterns e boas práticas de organização estrutural de projetos. 
+Me chamo Aralyne e todos os dias estou aprendendo um pouquinho mais sobre Ruby, Ruby on Rails, TDD, normalização de banco de dados, design patterns e boas práticas de organização estrutural de projetos. 
 
 <!--
 **aralyne/aralyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
